@@ -1,0 +1,1 @@
+export default /[\xAD\u058A\u05BE\u1400\u2010\u2E17\u2E40\u2E5D]|\uD803[\uDD6E\uDEAD]/;
