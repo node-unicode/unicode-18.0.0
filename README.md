@@ -4169,101 +4169,101 @@ import UppercaseSymbols from '@unicode/unicode-18.0.0/Simple_Case_Mapping/Upperc
 import LowercaseCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase/code-points.mjs'; // Lookup map from code point to code point or array of code points.
 import LowercaseSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--Final_SigmaCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--Final_Sigma/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--Final_SigmaSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--Final_Sigma/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__Final_SigmaCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--Final_Sigma/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__Final_SigmaSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--Final_Sigma/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--azCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--azSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__azCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__azSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--az--After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--az--After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__az__After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__az__After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--az--Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--az--Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__az__Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__az__Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--az--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--ltCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--ltSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__ltCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__ltSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--lt--After_Soft_DottedCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--After_Soft_Dotted/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--lt--After_Soft_DottedSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--After_Soft_Dotted/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__lt__After_Soft_DottedCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--After_Soft_Dotted/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__lt__After_Soft_DottedSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--After_Soft_Dotted/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--lt--More_AboveCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--More_Above/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--lt--More_AboveSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--More_Above/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__lt__More_AboveCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--More_Above/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__lt__More_AboveSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--lt--More_Above/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--trCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--trSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__trCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__trSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--tr--After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--tr--After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__tr__After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__tr__After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Lowercase--tr--Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Lowercase--tr--Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Lowercase__tr__Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Lowercase__tr__Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Lowercase--tr--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
 import TitlecaseCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase/code-points.mjs'; // Lookup map from code point to code point or array of code points.
 import TitlecaseSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--Final_SigmaCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--Final_Sigma/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--Final_SigmaSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--Final_Sigma/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__Final_SigmaCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--Final_Sigma/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__Final_SigmaSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--Final_Sigma/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--azCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--azSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__azCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__azSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--az--After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--az--After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__az__After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__az__After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--az--Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--az--Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__az__Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__az__Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--az--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--ltCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--ltSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__ltCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__ltSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--lt--After_Soft_DottedCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--After_Soft_Dotted/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--lt--After_Soft_DottedSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--After_Soft_Dotted/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__lt__After_Soft_DottedCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--After_Soft_Dotted/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__lt__After_Soft_DottedSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--After_Soft_Dotted/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--lt--More_AboveCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--More_Above/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--lt--More_AboveSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--More_Above/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__lt__More_AboveCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--More_Above/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__lt__More_AboveSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--lt--More_Above/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--trCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--trSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__trCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__trSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--tr--After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--tr--After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__tr__After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__tr__After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Titlecase--tr--Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Titlecase--tr--Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Titlecase__tr__Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Titlecase__tr__Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Titlecase--tr--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
 import UppercaseCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase/code-points.mjs'; // Lookup map from code point to code point or array of code points.
 import UppercaseSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--Final_SigmaCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--Final_Sigma/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--Final_SigmaSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--Final_Sigma/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__Final_SigmaCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--Final_Sigma/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__Final_SigmaSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--Final_Sigma/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--azCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--azSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__azCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__azSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--az--After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--az--After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__az__After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__az__After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--az--Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--az--Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__az__Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__az__Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--az--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--ltCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--ltSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__ltCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__ltSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--lt--After_Soft_DottedCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--After_Soft_Dotted/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--lt--After_Soft_DottedSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--After_Soft_Dotted/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__lt__After_Soft_DottedCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--After_Soft_Dotted/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__lt__After_Soft_DottedSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--After_Soft_Dotted/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--lt--More_AboveCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--More_Above/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--lt--More_AboveSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--More_Above/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__lt__More_AboveCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--More_Above/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__lt__More_AboveSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--lt--More_Above/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--trCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--trSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__trCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__trSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--tr--After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--tr--After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__tr__After_ICodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--After_I/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__tr__After_ISymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--After_I/symbols.mjs'; // Lookup map from symbol to symbol(s).
 
-import Uppercase--tr--Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
-import Uppercase--tr--Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
+import Uppercase__tr__Not_Before_DotCodePoints from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--Not_Before_Dot/code-points.mjs'; // Lookup map from code point to code point or array of code points.
+import Uppercase__tr__Not_Before_DotSymbols from '@unicode/unicode-18.0.0/Special_Casing/Uppercase--tr--Not_Before_Dot/symbols.mjs'; // Lookup map from symbol to symbol(s).
 ```
 
 ## Author
